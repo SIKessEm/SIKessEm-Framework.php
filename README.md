@@ -1,3 +1,3 @@
-# SIKessEm's framework
+# PHP Application
 
-A full stack framework for CLI/CGI Application or Web services
+Build Your Full Stack Application or Web services with PHP easily
